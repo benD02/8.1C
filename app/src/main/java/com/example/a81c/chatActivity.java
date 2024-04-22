@@ -35,7 +35,7 @@ public class chatActivity extends AppCompatActivity {
     private ChatAdapter chatAdapter;
     private List<String> messages = new ArrayList<>();
 
-    private String stringToken = "LL-n7IhWNrPdXttzHN2GH3CgfuUaDNMpnHAGqBnc67uPQPPByO0A9VXq4ZskSES8cod";
+    private String stringToken = "LL-REDACTED ";
     private String stringURLEndPoint = "https://api.llama-api.com/chat/completions";
 
 
